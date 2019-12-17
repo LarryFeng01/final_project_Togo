@@ -22,7 +22,7 @@ This figure represents the log of the population of Togo's prefectures. The regi
 
 Below is a rotating, three dimensional plot illustrating the log of the population. The more evelated the prefectures are, the higher the population. 
 
-![](Togogif.gif)
+![](TogoGif.gif)
 
 Here, I have plotted a histogram that relates two subjects: density and the log of population. Although most of the graph is relatively normal, there are a few outliers that extend on the x-axis. I infer that these are regions that contain a large population yet not as dense.
 
