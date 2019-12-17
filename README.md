@@ -37,29 +37,29 @@ Using variables such as dst011, dst040, dst130,...,dst200, topography, slope, an
 
 ## Population Sums 
 
-#### Population: Predictors- Sums
+##### Population: Predictors- Sums
 ![](population_sums.png)
-#### Difference: Predictors- Sums
+##### Difference: Predictors- Sums
 ![](diff_sums.png)
-#### 3D Difference: Predictors- Sums
+##### 3D Difference: Predictors- Sums
 ![](diff_sums_3D.png)
 
 ## Population Means
 
-#### Population: Predictors- Means
+##### Population: Predictors- Means
 ![](populations_means.png)
-#### Difference: Predictors- Means
+##### Difference: Predictors- Means
 ![](diff_means.png)
-#### 3D Difference: Predictors- Means
+##### 3D Difference: Predictors- Means
 ![](diff_means_3D.png)
 
 ## Population Log
 
-#### Population: Response- Log of Population
+##### Population: Response- Log of Population
 ![](population_logpop.png)
-#### Difference: Response- Log of Population
+##### Difference: Response- Log of Population
 ![](diff_logpop.png)
-#### 3D Difference: Response- Log of Population
+##### 3D Difference: Response- Log of Population
 ![](diff_logpop_3D.png)
 
 ## Analysis: Which of the Three Produces the Best Result
