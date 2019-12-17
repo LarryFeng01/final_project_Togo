@@ -96,3 +96,7 @@ My most accurate model is my population log. After running the cellStats functio
 |                                     |# of Primary & length: 18; 88,707m    |= 189,613 people per hospital              |
 |                                     |# of Secondary & length: 29; 94,304m  |                                           |
 |                                     |# of Tertiary & length: 119; 37,555m  |                                           |
+
+## State of Human Development Assessment 
+
+To start off, there need to more urban, developed areas for people to settle in. There are practically zero urban areas in the northern areas of Keran, but that doesn't mean people don't live there. Their villages are just so small that their population could never compare to the size of an actual city. Next, although the total length of roads is almost 50 million meters, or 50,000 km, there aren't enough paved roads. The total length includes every road, including dirt roads. In fact, the only paved roads are the primary and secondary roads. Lastly, the state of health care in Togo is critical. There is a distinct lack of clinics, which will lead to many unnecessary deaths. Further, the hospitals themselves must improve since their technology is behind other developed countries. In conclusion, Togo requires improvements with its unpaved roadway networks and their lack/quality of health care.
