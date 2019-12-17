@@ -18,7 +18,7 @@ As illustrated by the bar plot, the most populated county is Maritime, followed 
 
 This figure represents the log of the population of Togo's prefectures. The regions with a red color indicate a higher population while a blue color indicates a lower population with yellow in the middle. For example, Golfe and Lome Commune have a deeper, red color, so they have a higher population. The only prefecture that has a drastically low population is Plaine de Mo. As a whole country, most of the prefectures have a evenly distributed population, shown by the yellow and orange colors, except for the capital.
 
-![](tgo_pop19.png)
+
 
 Below is a rotating, three dimensional plot illustrating the log of the population. The more evelated the prefectures are, the higher the population. 
 
