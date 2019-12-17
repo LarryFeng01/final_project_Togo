@@ -91,7 +91,7 @@ My most accurate model is my population log. After running the cellStats functio
 ## Human Settlements and Urban Areas, Roadways, and Health Care Facilities Data in Keran & Doufelgou, Togo
 
 | Urban Population / Total Population | Roadway Networks                     | Health Care Facilities (Avg Pop/Facility) |
-|:-----------------------------------:|-------------------------------------:|------------------------------------------:|
+|:-----------------------------------:|:------------------------------------:|:-----------------------------------------:|
 |33,800/189,613 people                |Total length: 49,647,729 m            |189,613 people/ 1 hospital                 |
 |                                     |# of Primary & length: 18; 88,707m    |= 189,613 people per hospital              |
 |                                     |# of Secondary & length: 29; 94,304m  |                                           |
