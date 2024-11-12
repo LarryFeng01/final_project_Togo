@@ -1,6 +1,6 @@
 # Togo
 
-Hello! This is my final project on the country, Togo. At first I had chosen Ethiopia as my Lower Middle Income Counry(LMIC). After loading the raster for the simple feature object, however, I noticed that the country is just way too big. I could not find time to run the rasters since I needed my laptop everyday for class. So, enjoy this project on the Western African country, Togo.
+Hello! This is a project on the Western African country, Togo. I will be visualizing the population density of Togo, where the datasets are from The Demograhic and Health Surveys [DHS program](https://dhsprogram.com/data/available-datasets.cfm). Throughout this project I will present different visualizations of population, aggregated using separate methods. Using python to clean and transform the dataset, I utilize R and RStudio to create the graphs and GIFs that will provide more analysis.
 
 ## Administrative Subdivisions
 
